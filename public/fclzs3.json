@@ -1,0 +1,3 @@
+// fclzs3.js
+const API_KEY = "i9ezo9cebtkd";
+export default API_KEY;
